@@ -8,8 +8,27 @@ Para poder entender el binario y como se traduce se puede decir que:
 
 si tenemos _ _ _ _ _ _ _ _ ( 8 bits ) de esas 8 posibilidades podemos representar dos posibilidades, esto es un 2 elevado 8 que es igual a 256.
 
-Para entendernos: 
+> Como pasar binario a decimal:
+
+128 64 32 16 8 4 2 1
 
 _ _ _ _ _ _ _ 1 = 1 (decimal)
 
 _ _ _ _ _ _ 1 1 = 3 (decimal)
+
+_ _ _ _ _ 1 1 1 = 7 (decimal)
+
+_ _ _ _ 1 1 1 1 =  15 (decimal)
+
+(...)
+
+> Como pasar binario a octal: ( Se hacen grupos de 3 )
+
+_ _ _ _ _ _ _ 1 = 1 (decimal)
+
+_ _ _ _ _ _ 1 1 = 3 (decimal)
+
+_ _ _ _ _ 1 1 1 = 7 (decimal)
+
+_ _ _ _ 1 1 1 1 =  15 (decimal)
+
