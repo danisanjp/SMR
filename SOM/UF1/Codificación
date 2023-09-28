@@ -1,1 +1,9 @@
+Estamos acostumbrados a usar los ordenadores de forma automática y fluida, pero somos conscientes que para representar toda la información en pantalla la CPU lo único que necesita son ceros y unos?
+La combinación constante de ceros y unos procesado por la CPU genera la ilusión de estar ante algo que reconocemos y con lo que podemos interactuar.
+Estos ceros y unos agrupados de una forma u otra generan sistemas de codificación.
+En primero lugar tenemos:
 
+Binario: 1 Bit puede ser 0 o 1, 8 Bits representan un Byte.
+Para poder entender el binario y como se traduce se puede decir que:
+
+si tenemos _ _ _ _ _ _ _ _ ( 8 bits ) de esas 8 posibilidades podemos representar dos posibilidades, esto es un 2 elevado 8 que es igual a 256.
