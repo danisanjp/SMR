@@ -7,3 +7,9 @@ Binario: 1 Bit puede ser 0 o 1, 8 Bits representan un Byte.
 Para poder entender el binario y como se traduce se puede decir que:
 
 si tenemos _ _ _ _ _ _ _ _ ( 8 bits ) de esas 8 posibilidades podemos representar dos posibilidades, esto es un 2 elevado 8 que es igual a 256.
+
+Para entendernos: 
+
+_ _ _ _ _ _ _ 1 = 1 (decimal)
+
+_ _ _ _ _ _ 1 1 = 3 (decimal)
